@@ -217,3 +217,5 @@ pages/cache.json
 # Misc 
 .idea
 .claude
+.data/subscribers*
+.pages/subscribers
