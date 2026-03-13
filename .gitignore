@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Scraper output (keep .gitkeep)
+data/*.json
+data/*.csv
+
+# Intermediate page cache
+pages/*.html
+pages/cache.json
+
+# Misc 
+.idea
+.claude
